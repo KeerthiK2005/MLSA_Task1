@@ -35,7 +35,8 @@ const skillsList = [
   "Python",
   "Data Structures and Algorithms",
   "C programming language",
-  "Graphic design",
+  "Web developement",
+  "Graphic design" 
   
 ];
 
