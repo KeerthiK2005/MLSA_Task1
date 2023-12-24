@@ -36,7 +36,7 @@ const projectList = [
       "Vehicle Detection and Counter System in Python using OpenCV. Detects and counts vehicles in a video stream, with background subtraction and contour analysis. Technologies used are: Python, OpenCV, NumPy",
     url: "https://github.com/KeerthiK2005/Vehicle_Detection_System",
   },
-  {
+  /*{
     title: "",
     description:
       "",
@@ -53,7 +53,7 @@ const projectList = [
     description:
       "",
     url: "",
-  },
+  },*/
 ];
 
 const Portfolio = () => {
