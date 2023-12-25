@@ -29,7 +29,7 @@ const siteProps = {
   email: "Kuna.Keerthi@studentambassadors.com",
   gitHub: "https://github.com/KeerthiK2005",
   instagram: "",
-  linkedIn: "www.linkedin.com/in/keerthi-kuna",
+  linkedIn: "https://www.linkedin.com/in/kuna-keerthi",
   medium: "",
   twitter: "@sree_kuna86213",
   youTube: "",
